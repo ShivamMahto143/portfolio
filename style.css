@@ -1,0 +1,193 @@
+#outer{
+    height: 600px;
+    width: 1525px;
+    background-color: #49687c;
+    border: 1px solid ;
+}
+#menu{
+    margin-left: 455px;
+    height: 60px;
+	width: 650px;
+    color: blue;
+	background-color: #4d585f;
+    border-radius: 30px;
+    position: fixed;
+    
+}
+#menu ul{
+    
+    list-style-type:none;
+    /* border: 1px solid; */
+    margin-top: 10px;
+    /* background-color: green; */
+    padding-top: 20px;
+
+}
+#menu ul li
+{
+	display: inline;
+    margin-left: 56px;
+   
+}
+#menu ul li a{
+    color: white;
+    
+}
+.h1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 77px;
+    margin-left: 91px;
+    float: left;
+    margin-top: 115px;
+}
+#body{
+    height: 400px;
+    width: 1510px;
+}
+#image{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: aqua;
+    float: left;
+    margin-left: 350px;
+    margin-top: 100px;
+    
+}
+#about{
+    height: 800px;
+    width: 1525px;
+    background-color: #49687c;
+}
+#self{
+    padding: 10px;
+    margin-left: 650px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.a{
+    margin-top: 94px;
+}
+#self img{
+        margin-top: 43px;
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;     
+}
+#font{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 18px;
+   color: white;
+   margin-top: 260px;
+}
+#skill{
+    height: 600px;
+    width: 1525px;
+    background-color: #49687c;
+    border: 1px solid ;
+}
+#html{
+    margin: 20px;
+    height: 400px;
+    width: 323px;
+    float: left;
+}
+#html img{
+    border-radius: 50%;
+}
+#css{
+    height: 400px;
+    width: 350px;
+    float: left;
+}
+#css img{
+    border-radius: 50%;
+}
+#js{
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin-left: 30px;
+}
+#js img{
+    border-radius: 50%;
+}
+#boot{
+    height: 400px;
+    width: 300px;
+    float: left;
+}
+#boot img{
+    border-radius: 50%;
+}
+#work{
+    height: 600px;
+    width: 1525px;
+    background-color: #49687c;
+    border: 1px solid ;
+}
+#work img{
+    margin-left: 250px;
+    height: 300px;
+    width:1000px ;
+}
+#work h3{
+    font-size: 30px;
+    color: white;
+}
+#contact{
+    height: 600px;
+    width: 1525px;
+    background-color: #49687c;
+    border: 1px solid ;
+}
+#insta{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+#insta img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+#facebook{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+#facebook img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 99px;
+    margin-top: 20px;
+}
+#whatsapp{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+#whatsapp img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 171px;
+    margin-top: 20px;
+}
+#linkedin{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+#linkedin img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 260px;
+    margin-top: 20px;
+}
